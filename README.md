@@ -1,2 +1,2 @@
-# Eploratory-Data-Analysis
+# Exploratory-Data-Analysis
 Doing EDA using SQL
