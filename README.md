@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Doing EDA using SQL
+Doing an EDA Project using SQL
